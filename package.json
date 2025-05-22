@@ -1,7 +1,7 @@
 {
 	"name": "ALAMIN",
 	"version": "10.1.1",
-	"description": "A simple Facebook Messenger Bot Mod by 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐥𝐚𝐦𝐢𝐧.",
+	"description": "A simple Facebook Messenger Bot Mod by Mohammad Alamin.",
 	"main": "Alamin.js",
 	"scripts": {
 		"start": "node index.js",
